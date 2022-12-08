@@ -36,12 +36,6 @@ class Program
                 double entree_price, drink_price, side_price;
                 int entree_opt, drink_opt, side_opt;
 
-                // int entree_index = 0;
-                // foreach(var item in entree_opt){
-                //     Console.WriteLine($"{entree_index}-{item.Key}-{item.Value}");
-                //     entree_index++;
-                // }
-
                 string opt = Console.ReadLine();
                 if(opt=="1")
                 {
